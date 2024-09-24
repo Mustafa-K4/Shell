@@ -1,0 +1,2 @@
+This is the first line in file2.txt
+This is the last line
